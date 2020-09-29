@@ -106,7 +106,7 @@ class Burger {
     }
 }
 
-let Cheeseburger = new Burger("Cheeseburger", ["Булка", "Огурец", "Фломастер"], 20)
+let Cheeseburger = new Burger("Cheeseburger", ["Булка", "Огурец", "Бекон"], 20)
 OurMenu.push(Cheeseburger);
 console.log(OurMenu)
 
