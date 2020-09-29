@@ -1,0 +1,21 @@
+.post {
+    width: 30%;
+    margin: 20px auto;
+    padding: 5px;
+    background-color: aquamarine;
+}
+
+.post__image img {
+    width: 100%
+}
+
+.adv {
+    width: 30%;
+    margin: 20px auto;
+    padding: 5px;
+    background-color: darkgray;
+}
+
+.adv__image img {
+    width: 100%;
+}

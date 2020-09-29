@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.mainView {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.mainView div {
+    margin-bottom: 20px;
+    background-color: darkgray;
+}
+.ingrList {
+    list-style: none;
+    text-align: left;
+}
